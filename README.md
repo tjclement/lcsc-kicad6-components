@@ -14,3 +14,4 @@ Choose from: MIT, Unlicense, or CC0. All are effectively public domain, so you c
 * STM32F103CBT6 ([datasheet](https://datasheet.lcsc.com/szlcsc/1809301224_STMicroelectronics-STM32F103CBT6_C8304.pdf))
 * ATSAMD20E18A-MUT ([datasheet](https://lcsc.com/product-detail/Pre-ordered-Products_Microchip-Tech_ATSAMD20E18A-MUT_Microchip-Tech-ATSAMD20E18A-MUT_C614295.html))
 * MSP430FR6972IPMR ([datasheet](https://lcsc.com/product-detail/TI-MCU_Texas-Instruments-Texas-Instruments-MSP430FR6972IPMR_C472489.html))
+* Cirrus Logic WM8782SEDS/RV ([datasheet](https://lcsc.com/product-detail/Analog-To-Digital-Converters-ADCs_Cirrus-Logic-WM8782SEDS-RV_C323842.html))
