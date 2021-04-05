@@ -8,3 +8,7 @@ New components are added regularly.
 
 ## License
 Choose from: MIT, Unlicense, or CC0. All are effectively public domain, so you can use this work however you like.
+
+## Current component list
+* STM32F750Z8T6 ([datasheet](https://datasheet.lcsc.com/szlcsc/2001071810_STMicroelectronics-STM32F750Z8T6_C411817.pdf))
+* STM32F103CBT6 ([datasheet](https://datasheet.lcsc.com/szlcsc/1809301224_STMicroelectronics-STM32F103CBT6_C8304.pdf))
