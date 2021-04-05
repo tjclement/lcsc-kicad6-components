@@ -12,3 +12,4 @@ Choose from: MIT, Unlicense, or CC0. All are effectively public domain, so you c
 ## Current component list
 * STM32F750Z8T6 ([datasheet](https://datasheet.lcsc.com/szlcsc/2001071810_STMicroelectronics-STM32F750Z8T6_C411817.pdf))
 * STM32F103CBT6 ([datasheet](https://datasheet.lcsc.com/szlcsc/1809301224_STMicroelectronics-STM32F103CBT6_C8304.pdf))
+* ATSAMD20E18A-MUT ([datasheet](https://lcsc.com/product-detail/Pre-ordered-Products_Microchip-Tech_ATSAMD20E18A-MUT_Microchip-Tech-ATSAMD20E18A-MUT_C614295.html))
