@@ -9,7 +9,7 @@ Note: 3D models are also downloaded, but they need to be converted to .stp files
 
 ## FAQ
 * Why only support KiCad 6, when it's not a stable release yet?
-  * The [https://github.com/wokwi/easyeda2kicad](easyeda2kicad) library that's used currently only supports v6, and since v6 is really nice to use, I didn't port the lib to v5.
+  * The [easyeda2kicad](https://github.com/wokwi/easyeda2kicad) library that's used currently only supports v6, and since v6 is really nice to use, I didn't port the lib to v5.
 
 ## License
 Choose from: MIT, Unlicense, or CC0. All are effectively public domain, so you can use this work however you like.
